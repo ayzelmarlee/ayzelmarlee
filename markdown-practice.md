@@ -9,7 +9,8 @@ I really love <strong>anime</strong> and I am currently rewatching <em>Death Not
 `I would love to create my own animation`
 
 <h1>Exercise 3- Links</h1>
-Here is my [GitHub](https://github.com/ayzelmarlee) profile
+
+My GitHub profile is [ayzelmarlee](https://github.com/ayzelmarlee)
 
 
 I also found [GitHub Docs](https://docs.github.com/en) helpful for learning Markdown
