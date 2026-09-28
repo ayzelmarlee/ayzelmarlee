@@ -1,4 +1,4 @@
-# Hi, I'm Ayzel.
+# Hi, I'm Ayzel Marlee Ayaan.
 
 ## About Me
 - I'm currently learning Nutrition and Dietetics at Kenyatta University.
