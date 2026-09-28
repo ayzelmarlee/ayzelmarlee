@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ayzel.
 
-<!--
-**AyzelAyaan/ayzelayaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Nutrition and Dietetics at Kenyatta University.
+- I'm interested in web and game development.
+- I'm looking to collaborate on beginner friendly web development projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- HTML/CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- None
+
+## How to Reach Me
+- Email: ayzelxayaan@gmail.com
+- WhatsApp username: @mxmarlee
