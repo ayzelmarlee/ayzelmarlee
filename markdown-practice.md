@@ -11,4 +11,8 @@ My GitHub profile page is [ayzelmarlee](https://github.com/ayzelmarlee/ayzelmarl
 I also found [GitHub Docs](https://docs.github.com/en) helpful for learning Markdown.
 
 <h1>Exercise 4- Lists</h1>
+<ul>Development tools</ul>
+<ul>Algorithms</ul>
+<ul>Programming Languages</ul>
+
 
