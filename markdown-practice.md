@@ -55,6 +55,26 @@ console.log(name);
 
 > A lesson without pain is meaningless. For you cannot gain anything without sacrificing something else in return. But once you endure that pain and overcome it, you will gain a heart that's stronger than all else.
 
+<h1>About Me</h1>
+<h2>Ayzel Marlee</h2>
+
+My name is Ayzel Ayaan. I'm <strong>a student</strong> at <em>Kenyatta University</em> .
+
+You can reach me through my [email](ayzelxayaan@gmail.com) .
+
+My skills include:
+
+<ul>Video Editing</ul>
+<ul>Web Development</ul>
+<ul>Camera Operation</ul>
+
+> As long as I live I have infinite chances.
+
+
+
+
+
+
 
 
 
